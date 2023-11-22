@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![LINK_TEXT](https://media.tenor.com/IVrFCoqyhG8AAAAd/baba-vrac.gif) -->
-![SVE](https://media.tenor.com/avcepH03hDEAAAAd/all.gif)
+![LINK_TEXT](https://media.tenor.com/IVrFCoqyhG8AAAAd/baba-vrac.gif)
